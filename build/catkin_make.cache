@@ -1,0 +1,2 @@
+imu_calib:imu_filter_madgwick_long:lino_msgs:lino_pid:lino_visualize:linorobot
+-DCATKIN_DEVEL_PREFIX=/home/roab_lab/lino_ws/devel -DCMAKE_INSTALL_PREFIX=/home/roab_lab/lino_ws/install -G Unix Makefiles

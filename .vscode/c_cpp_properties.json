@@ -1,0 +1,27 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/roab_lab/lino_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/roab_lab/lino_ws/src/imu_calib/include/**",
+        "/home/roab_lab/lino_ws/src/imu_filter_madgwick_long/include/**",
+        "/home/roab_lab/lino_ws/src/lino_pid/include/**",
+        "/home/roab_lab/lino_ws/src/linorobot/include/**",
+        "/home/roab_lab/turtle_ws/src/turtlebot3_simulations/turtlebot3_fake/include/**",
+        "/home/roab_lab/turtle_ws/src/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
